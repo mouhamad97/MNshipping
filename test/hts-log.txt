@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 22 May 2021 18:01:59 at https://technext.github.io/logistico/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://technext.github.io/logistico/index.html -O1 "C:\My Web Sites\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:03:49	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/About.html (from https://technext.github.io/logistico/index.html)
+18:04:15	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/css/owl.video.play.png (from https://technext.github.io/logistico/css/owl.carousel.min.css)
+18:04:15	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/css/Flaticon.svg (from https://technext.github.io/logistico/css/flaticon.css)
+18:04:16	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/img/slider/slider-img-1.jpg (from https://technext.github.io/logistico/css/style.css)
+18:04:16	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/img/background-img/bg-img-2.jpg (from https://technext.github.io/logistico/css/style.css)
+18:04:16	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/img/background-img/bg-img-3.jpg (from https://technext.github.io/logistico/css/style.css)
+18:04:16	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/img/banner/banner_2.png (from https://technext.github.io/logistico/css/style.css)
+18:04:16	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/img/banner/property.png (from https://technext.github.io/logistico/css/style.css)
+18:04:16	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/img/video/video.png (from https://technext.github.io/logistico/css/style.css)
+18:04:16	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/img/banner/emergency-1.png (from https://technext.github.io/logistico/css/style.css)
+18:04:16	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/img/banner/emergency-2.png (from https://technext.github.io/logistico/css/style.css)
+18:04:16	Error: 	"Not Found" (404) at link https://technext.github.io/logistico/"https://maps.gstatic.com/mapfiles/openhand_8_8.cur" (from https://technext.github.io/logistico/contact.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 17 seconds : 166 links scanned, 153 files written (20427562 bytes overall) [18548544 bytes received at 135390 bytes/sec], 3132021 bytes transferred using HTTP compression in 78 files, ratio 32%, 5.7 requests per connection
+(12 errors, 0 warnings, 0 messages)
