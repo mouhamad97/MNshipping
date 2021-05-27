@@ -16,7 +16,7 @@
     var statsTopOffset = $(".statsSection").offset().top;
     var countUpFinished = false;
     $(window).scroll(function () {
-      if (!countUpFinished && window.pageYOffset > statsTopOffset - $(window).height() + 700) {
+      if (!countUpFinished && window.pageYOffset > statsTopOffset - $(window).height() + 500) {
         $(".counters").each(function () {
           var element = $(this);
           var endVal = parseInt(element.text());
